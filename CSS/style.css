@@ -1,13 +1,34 @@
 body {
-    background-color: red;
+    background-color: rgb(255, 69, 0);
 }
 
 h1 {
     color: black;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 100px;
 }
 
-h4 {
+div {
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
+    margin: 10px 10px 10px 10px;
+}
+
+.rang1 {
+    margin-bottom: 120px;
+    justify-content: space-around;
+    display:flex
+}
+
+.rang2 {
+    margin-bottom: 100px;
+    justify-content: space-around;
+    display:flex
+}
+
+figcaption {
+    text-align: center;
+    margin-top: 30px;
 }
