@@ -1,9 +1,13 @@
 body {
+<<<<<<< HEAD
     background-color: white;
     background-image: url(../background.jpg);
     background-repeat:no-repeat;
     background-position:top;
     background-size: cover;
+=======
+    background-color: black;
+>>>>>>> 909dc49753fa017271a1c23d81f0622fe0f0a68c
 }
 
 h1 {
